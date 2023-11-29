@@ -1,0 +1,10 @@
+C:\VisualStudioProjects\CS_ATM\bin\Debug\CS_ATM.exe.config
+C:\VisualStudioProjects\CS_ATM\bin\Debug\CS_ATM.exe
+C:\VisualStudioProjects\CS_ATM\bin\Debug\CS_ATM.pdb
+C:\VisualStudioProjects\CS_ATM\obj\Debug\CS_ATM.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\CS_ATM\obj\Debug\CS_ATM.Form1.resources
+C:\VisualStudioProjects\CS_ATM\obj\Debug\CS_ATM.Properties.Resources.resources
+C:\VisualStudioProjects\CS_ATM\obj\Debug\CS_ATM.csproj.GenerateResource.cache
+C:\VisualStudioProjects\CS_ATM\obj\Debug\CS_ATM.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\CS_ATM\obj\Debug\CS_ATM.exe
+C:\VisualStudioProjects\CS_ATM\obj\Debug\CS_ATM.pdb
